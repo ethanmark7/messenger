@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ethansamuels/Developer/apps/Messenger/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/ethansamuels/Developer/apps/Messenger/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/ethansamuels/Developer/apps/messenger/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
