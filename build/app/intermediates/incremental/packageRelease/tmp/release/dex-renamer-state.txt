@@ -1,4 +1,4 @@
-#Sun Aug 28 10:25:31 AEST 2022
+#Sun Aug 28 11:21:01 AEST 2022
 base.0=/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

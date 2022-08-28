@@ -12,6 +12,17 @@ class _FriendsScreenState extends State<FriendsScreen> {
   final List<String> photos = <String>["image_5.png", "image_6.png"];
   final List<String> status = <String>["Nearby", "Nearby"];
   final List<String> statusImage = <String>["ok.png", "ok.png"];
+  bool showFriends = false;
+
+  @override
+  void initState() {
+    Future.delayed(const Duration(seconds: 2), () {
+      setState(() {
+        showFriends = true;
+      });
+    });
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -32,7 +43,7 @@ class _FriendsScreenState extends State<FriendsScreen> {
         backgroundColor: Colors.white,
         elevation: 1,
       ),
-      body: Padding(
+      body: showFriends ? Padding(
         padding: const EdgeInsets.symmetric(horizontal: 20.0, vertical: 12),
         child: Column(
           children: [
@@ -109,6 +120,10 @@ class _FriendsScreenState extends State<FriendsScreen> {
                 ),
               ),
           ],
+        ),
+      ) : const Center(
+        child: CircularProgressIndicator(
+          color: Colors.black,
         ),
       ),
     );

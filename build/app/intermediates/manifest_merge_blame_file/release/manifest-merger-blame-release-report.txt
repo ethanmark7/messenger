@@ -17,7 +17,7 @@
 13-->[androidx.core:core:1.6.0] /Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 14        android:icon="@mipmap/ic_launcher"
 14-->/Users/ethansamuels/Developer/apps/messenger/android/app/src/main/AndroidManifest.xml:6:9-43
-15        android:label="messenger" >
+15        android:label="Messenger" >
 15-->/Users/ethansamuels/Developer/apps/messenger/android/app/src/main/AndroidManifest.xml:4:9-34
 16        <activity
 16-->/Users/ethansamuels/Developer/apps/messenger/android/app/src/main/AndroidManifest.xml:7:9-27:20

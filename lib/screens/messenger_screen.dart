@@ -190,7 +190,7 @@ class _MessengerScreenState extends State<MessengerScreen> {
                               statusHeight = 60;
                               assetImage = emojis[i];
                             });
-                            Future.delayed(const Duration(seconds: 2), () {
+                            Future.delayed(const Duration(seconds: 4), () {
                               setState((){
                                 statusHeight = 0;
                               });

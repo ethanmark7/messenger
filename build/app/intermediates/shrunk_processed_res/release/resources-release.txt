@@ -1095,6 +1095,7 @@ Marking id:line3:2131034161 used because it matches string pool constant line
 @dimen/notification_subtext_size : reachable=false
 @dimen/notification_top_pad : reachable=false
 @dimen/notification_top_pad_large_text : reachable=false
+@drawable/ic_launcher_background : reachable=false
 @drawable/launch_background : reachable=false
 @drawable/notification_action_background : reachable=false
     @color/androidx_core_ripple_material_light
@@ -1226,6 +1227,12 @@ Marking id:line3:2131034161 used because it matches string pool constant line
 @layout/notification_template_part_time : reachable=false
     @style/TextAppearance_Compat_Notification_Time
 @mipmap/ic_launcher : reachable=true
+    @drawable/ic_launcher_background
+    @mipmap/ic_launcher_foreground
+@mipmap/ic_launcher_foreground : reachable=false
+@mipmap/ic_launcher_round : reachable=false
+    @drawable/ic_launcher_background
+    @mipmap/ic_launcher_foreground
 @string/status_bar_notification_info_overflow : reachable=false
 @style/LaunchTheme : reachable=true
     @drawable/launch_background
@@ -1335,3 +1342,9 @@ Skipped unused resource res/layout-v21/notification_action.xml: 2216 bytes (repl
 Skipped unused resource res/layout-v21/notification_action_tombstone.xml: 2677 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/layout-v21/notification_template_custom_big.xml: 6318 bytes (replaced with small dummy file of size 9 bytes)
 Skipped unused resource res/layout-v21/notification_template_icon_group.xml: 2432 bytes (replaced with small dummy file of size 9 bytes)
+Skipped unused resource res/mipmap-mdpi-v4/ic_launcher_round.png: 2959 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-hdpi-v4/ic_launcher_round.png: 4945 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xhdpi-v4/ic_launcher_round.png: 7504 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxhdpi-v4/ic_launcher_round.png: 12564 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-xxxhdpi-v4/ic_launcher_round.png: 18996 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/mipmap-anydpi-v26/ic_launcher_round.xml: 419 bytes (replaced with small dummy file of size 9 bytes)

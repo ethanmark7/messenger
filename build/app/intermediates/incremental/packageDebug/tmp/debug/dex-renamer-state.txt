@@ -1,4 +1,4 @@
-#Sun Aug 28 10:31:23 AEST 2022
+#Sun Aug 28 10:33:17 AEST 2022
 base.0=/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

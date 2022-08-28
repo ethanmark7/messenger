@@ -16,21 +16,6 @@
             ]
         },
         {
-            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-uz_values-uz.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-uz/values-uz.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-th_values-th.arsc.flat",
             "map": [
                 {
@@ -46,10 +31,25 @@
             ]
         },
         {
-            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-et_values-et.arsc.flat",
+            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-uz_values-uz.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-et/values-et.xml",
+                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -76,25 +76,10 @@
             ]
         },
         {
-            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-fr_values-fr.arsc.flat",
+            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-et_values-et.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-fr/values-fr.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-as_values-as.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-as/values-as.xml",
+                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-et/values-et.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -110,6 +95,21 @@
             "map": [
                 {
                     "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/ethansamuels/Developer/apps/messenger/build/app/intermediates/merged_res/release/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/ethansamuels/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
